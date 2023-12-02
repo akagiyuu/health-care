@@ -1,0 +1,5 @@
+<map id="Sensor::Manager" name="Sensor::Manager">
+<area shape="rect" id="node1" title=" " coords="113,137,251,236"/>
+<area shape="rect" id="node2" href="$structSensor_1_1Health_1_1Data.html" title=" " coords="5,5,169,75"/>
+<area shape="rect" id="node3" href="$structSensor_1_1Motion_1_1Data.html" title=" " coords="193,5,360,75"/>
+</map>

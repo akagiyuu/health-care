@@ -1,0 +1,212 @@
+[
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-as -mmcu=atmega328p -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.S.o /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libc1c/Wire/Wire.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src/Wire.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src/Wire.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/libc1c/Wire/utility/twi.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src/utility/twi.c",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src/utility/twi.c"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/libf58/SparkFun MAX3010x Pulse and Proximity Sensor Library/MAX30105.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src/MAX30105.cpp\"",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src/MAX30105.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/libf58/SparkFun MAX3010x Pulse and Proximity Sensor Library/heartRate.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src/heartRate.cpp\"",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src/heartRate.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/libf58/SparkFun MAX3010x Pulse and Proximity Sensor Library/spo2_algorithm.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src/spo2_algorithm.cpp\"",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src/spo2_algorithm.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/lib99b/Adafruit Unified Sensor/Adafruit_Sensor.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/Adafruit Unified Sensor/Adafruit_Sensor.cpp\"",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/.pio/libdeps/nanoatmega328/Adafruit Unified Sensor/Adafruit_Sensor.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/libb9d/Adafruit HMC5883 Unified/Adafruit_HMC5883_U.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/Adafruit HMC5883 Unified\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/Adafruit HMC5883 Unified/Adafruit_HMC5883_U.cpp\"",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/.pio/libdeps/nanoatmega328/Adafruit HMC5883 Unified/Adafruit_HMC5883_U.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libe4d/SPI/SPI.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/yuu/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/.platformio/packages/framework-arduino-avr/libraries/SPI/src/SPI.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/lib417/Adafruit BusIO/Adafruit_BusIO_Register.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/Adafruit BusIO\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/Adafruit BusIO/Adafruit_BusIO_Register.cpp\"",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/.pio/libdeps/nanoatmega328/Adafruit BusIO/Adafruit_BusIO_Register.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/lib417/Adafruit BusIO/Adafruit_I2CDevice.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/Adafruit BusIO\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/Adafruit BusIO/Adafruit_I2CDevice.cpp\"",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/.pio/libdeps/nanoatmega328/Adafruit BusIO/Adafruit_I2CDevice.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/lib417/Adafruit BusIO/Adafruit_SPIDevice.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/Adafruit BusIO\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/Adafruit BusIO/Adafruit_SPIDevice.cpp\"",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/.pio/libdeps/nanoatmega328/Adafruit BusIO/Adafruit_SPIDevice.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o \".pio/build/nanoatmega328/lib9cc/Adafruit MPU6050/Adafruit_MPU6050.cpp.o\" -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 \"-I.pio/libdeps/nanoatmega328/Adafruit MPU6050\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" \"-I.pio/libdeps/nanoatmega328/Adafruit BusIO\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/SPI/src -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs \".pio/libdeps/nanoatmega328/Adafruit MPU6050/Adafruit_MPU6050.cpp\"",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/.pio/libdeps/nanoatmega328/Adafruit MPU6050/Adafruit_MPU6050.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/lib2ca/Util/Util.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/Util -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/Util/Util.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/lib/Util/Util.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libffc/Sensor/Health.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/Sensor -Ilib/Util \"-I.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/Sensor/Health.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/lib/Sensor/Health.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/libffc/Sensor/Motion.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Ilib/Sensor -Ilib/Util \"-I.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs lib/Sensor/Motion.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/lib/Sensor/Motion.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/config.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -Ilib/Sensor -Ilib/Util \"-I.pio/libdeps/nanoatmega328/Adafruit MPU6050\" \"-I.pio/libdeps/nanoatmega328/Adafruit BusIO\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/SPI/src \"-I.pio/libdeps/nanoatmega328/Adafruit HMC5883 Unified\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" \"-I.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs src/config.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/src/config.cpp"
+    },
+    {
+        "command": "/home/yuu/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60106 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -Ilib/Sensor -Ilib/Util \"-I.pio/libdeps/nanoatmega328/Adafruit MPU6050\" \"-I.pio/libdeps/nanoatmega328/Adafruit BusIO\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/SPI/src \"-I.pio/libdeps/nanoatmega328/Adafruit HMC5883 Unified\" \"-I.pio/libdeps/nanoatmega328/Adafruit Unified Sensor\" \"-I.pio/libdeps/nanoatmega328/SparkFun MAX3010x Pulse and Proximity Sensor Library/src\" -I/home/yuu/.platformio/packages/framework-arduino-avr/libraries/Wire/src -I/home/yuu/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/yuu/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs src/main.cpp",
+        "directory": "/home/yuu/Code/Arduino/Nano",
+        "file": "/home/yuu/Code/Arduino/Nano/src/main.cpp"
+    }
+]

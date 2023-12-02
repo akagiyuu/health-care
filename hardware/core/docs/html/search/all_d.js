@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['health_0',['Health',['../namespaceSensor_1_1Health.html',1,'Sensor']]],
+  ['motion_1',['Motion',['../namespaceSensor_1_1Motion.html',1,'Sensor']]],
+  ['sample_5fper_5fcalculate_2',['SAMPLE_PER_CALCULATE',['../Health_8cpp.html#a40afad3c3727c6938e9c47dfdd94d42a',1,'Health.cpp']]],
+  ['send_3',['send',['../namespaceDatabase.html#a22c69aab8a49745bb40b3b52829fc145',1,'Database']]],
+  ['send_2ecpp_4',['Send.cpp',['../Send_8cpp.html',1,'']]],
+  ['sensor_5',['Sensor',['../namespaceSensor.html',1,'']]],
+  ['sensor_2eh_6',['Sensor.h',['../Sensor_8h.html',1,'']]],
+  ['sensormanager_7',['SensorManager',['../main_8cpp.html#a1056bed084c4759c0aa9334b643439a7',1,'main.cpp']]],
+  ['sensormanager_2ecpp_8',['SensorManager.cpp',['../SensorManager_8cpp.html',1,'']]],
+  ['sensormanager_2eh_9',['SensorManager.h',['../SensorManager_8h.html',1,'']]],
+  ['setup_10',['setup',['../main_8cpp.html#a4fc01d736fe50cf5b977f755b675f11d',1,'main.cpp']]],
+  ['shift_5fleft_11',['shift_left',['../namespaceArray.html#a2aa7b6dc9ab67f1e5ca0bbe96ec878fb',1,'Array']]],
+  ['sign_5fin_12',['sign_in',['../Auth_8cpp.html#a4434dab597a942f2133d77e7b47a42f1',1,'Auth.cpp']]],
+  ['sign_5fup_13',['sign_up',['../Auth_8cpp.html#ae0aa07225427f505c3ad66000645c562',1,'Auth.cpp']]],
+  ['spo2_14',['spo2',['../structSensor_1_1Health_1_1Data.html#a7dfc86be640ff652e4884bd4a61f6322',1,'Sensor::Health::Data']]],
+  ['sync_15',['sync',['../classSensor_1_1Manager.html#ac93e4c05bd46dc116370410d54a2ebe2',1,'Sensor::Manager']]]
+];
